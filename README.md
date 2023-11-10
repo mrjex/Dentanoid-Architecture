@@ -9,7 +9,7 @@
 
 
 ## Component Diagram
-![DIT356_-_Component_diagram__Joel_and_Mohammad_](uploads/fe16423172213379c893754bc1f1b651/DIT356_-_Component_diagram__Joel_and_Mohammad_.png)
+![Component Diagram](./images/diagrams/Component Diagram.png)
 
 ## ER Diagram
 ![ER Diagram](./images/diagrams/ER Diagram.png)
