@@ -7,6 +7,14 @@
 
 [API Gateway](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-api-gateway)
 
+[Authentication service](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-authentication-service)
+
+[Booking service](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-booking-service)
+
+[Logging service](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-logging-service)
+
+[Statistics service](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-statistics-service)
+
 
 ## Component Diagram
 ![Component Diagram](./images/diagrams/Component Diagram.png)
