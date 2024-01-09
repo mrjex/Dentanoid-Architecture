@@ -21,7 +21,7 @@
 
 
 ## Component Diagram
-![Component Diagram](./images/diagrams/Component Diagram.png)
+![Component Diagram](./images/diagrams/Component_Diagram.png)
 
 ## ER Diagram
 ![ER Diagram](./images/diagrams/ER Diagram.png)
