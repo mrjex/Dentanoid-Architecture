@@ -4,23 +4,39 @@
 
 
 ## Components
-[Patient Client](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-patient-client)
 
-[Dentist Client](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-dentist-client)
 
-[Patient API](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-patient-API)
+**Frontend Clients:**
 
-[Dentist API](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-dentist-api)
+- [Patient Client](https://github.com/Dentanoid/Patient-Client)
 
-[User Service](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-user-service)
+- [Dentist Client](https://github.com/Dentanoid/Dentist-Client)
 
-[Appointment Service](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-appointment-service-2)
 
-[Clinic Service](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-clinic-service)
+**REST APIs:**
 
-[Monitoring service](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-logging-service)
+- [Patient API](https://github.com/Dentanoid/Patient-API)
 
-[Notification Service](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-notification-service)
+- [Dentist API](https://github.com/Dentanoid/Dentist-API)
+
+
+**Backend Services:**
+
+- [User Service](https://github.com/Dentanoid/User-Service)
+
+- [Appointment Service](https://github.com/Dentanoid/Appointment-Service-Go)
+
+- [Clinic Service](https://github.com/Dentanoid/Clinic-Service)
+
+- [Monitoring service](https://github.com/Dentanoid/Monitoring-Service)
+
+- [Notification Service](https://github.com/Dentanoid/Notification-Service)
+
+
+**Scaled Deployment:**
+
+- [Scaled Deployment](https://github.com/Dentanoid/Scaled-Deployment)
+
 
 
 ## System Architecture
