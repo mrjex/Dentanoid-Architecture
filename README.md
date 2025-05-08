@@ -1,4 +1,7 @@
-# Group 20 - Distributed Systems [Project title here]
+# Dentanoid - Distributed Systems
+
+![system-thumbnail](assets/thumbnail-technologies.PNG)
+
 
 ## Components
 [Patient Client](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-patient-client)
@@ -20,20 +23,25 @@
 [Notification Service](https://git.chalmers.se/courses/dit355/2023/student-teams/dit356-2023-20/group-20-distributed-systems-notification-service)
 
 
-## Component Diagram
-![Component Diagram](./images/diagrams/Component_Diagram.png)
+## System Architecture
+
+![Component Diagram](assets/architecture-stylish.PNG)
 
 ## ER Diagram
-![ER Diagram](./images/diagrams/ER Diagram.png)
+
+![ER Diagram](assets/ER%20Diagram.png)
 
 ## Context Diagram
-![Context Diagram](./images/diagrams/Context Diagram.png)
+
+![Context Diagram](assets/Context%20Diagram.png)
 
 ## Site Map
-![Site Map](./images/diagrams/Sitemap.png)
+![Site Map](assets/Sitemap.png)
 
 ## Use Case Diagram
-![Use Case Diagram](./images/diagrams/Use Case Diagram.png)
+![Use Case Diagram](assets/Use%20Case%20Diagram.png)
 
-## Video
-Link here
+## Commercial Video
+
+[![Watch the video](https://img.youtube.com/vi/aSLGyp8Asb0/hqdefault.jpg)](https://www.youtube.com/watch?v=aSLGyp8Asb0)
+
