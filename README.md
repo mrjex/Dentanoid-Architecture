@@ -16,6 +16,10 @@
   - [Communication Patterns](#communication-patterns)
   - [System Architecture](#system-architecture)
   - [Key Diagrams](#key-diagrams)
+    - [ER Diagram](#er-diagram)
+    - [Context Diagram](#context-diagram)
+    - [Site Map](#site-map)
+    - [Use Case Diagram](#use-case-diagram)
   - [Commercial Video](#commercial-video)
 
 ---
@@ -85,19 +89,20 @@ The platform uses both REST and MQTT protocols to balance synchronous and asynch
 ---
 
 ## Key Diagrams
-- **ER Diagram**
+
+### ER Diagram
   
   ![ER Diagram](assets/ER%20Diagram.png)
 
-- **Context Diagram**
+### Context Diagram
   
   ![Context Diagram](assets/Context%20Diagram.png)
 
-- **Site Map**
+### Site Map
   
   ![Site Map](assets/Sitemap.png)
-  
-- **Use Case Diagram**
+
+### Use Case Diagram
   
   ![Use Case Diagram](assets/Use%20Case%20Diagram.png)
 
