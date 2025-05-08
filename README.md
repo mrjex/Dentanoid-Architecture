@@ -1,6 +1,9 @@
 # Dentanoid – Distributed Dental Appointment System
 
 > **For detailed documentation and the development process, visit the [Architecture Wiki](https://github.com/Dentanoid/Architecture/wiki).**
+> 
+> ⚠️ **Disclaimer**: This is a **fork** of [Dentanoid Architecture](https://github.com/Dentanoid/Architecture), originally created and maintained by the [Dentanoid Organization](https://github.com/Dentanoid)
+
 
 ---
 
