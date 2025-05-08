@@ -73,6 +73,3 @@ for SERVICE_NAME in "${SERVICES[@]}"; do
 done
 
 echo -e "${BLUE}--- MQTT Backend Service Active Checks Complete ---${NC}"
-echo "Note: 'PASS' indicates a direct MQTT response was received."
-echo "'INFO' means no direct response; manual log checking is advised for those services."
-echo "Ensure services are configured to listen to and respond on the respective 'dentanoid/test/...' topics for full testability." 

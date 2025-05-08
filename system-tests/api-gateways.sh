@@ -3,7 +3,7 @@
 # Script to check the health and basic endpoints of API Gateways
 
 PATIENT_API_URL_BASE="http://localhost:3000"
-DENTIST_API_URL_BASE="http://localhost:3001" # Assuming a different port
+DENTIST_API_URL_BASE="http://localhost:3001"
 
 echo "--- Checking API Gateways ---"
 
@@ -30,18 +30,12 @@ echo "Patient API ($PATIENT_API_URL_BASE)"
 check_endpoint "Patient API" "$PATIENT_API_URL_BASE/" "^2[0-9][0-9]$" "Root endpoint"
 check_endpoint "Patient API" "$PATIENT_API_URL_BASE/clinics" "^(2[0-9][0-9]|404)$" "Get Clinics endpoint" # 404 is ok if no clinics but endpoint works
 
-# Add more Patient API unauthenticated GET endpoints here if needed
-# Example:
-# check_endpoint "Patient API" "$PATIENT_API_URL_BASE/some_other_public_route" "^2[0-9][0-9]$" "Some other public info"
 
 # --- Dentist API Checks ---
 echo ""
 echo "Dentist API ($DENTIST_API_URL_BASE)"
 check_endpoint "Dentist API" "$DENTIST_API_URL_BASE/" "^2[0-9][0-9]$" "Root endpoint"
 
-# Add more Dentist API unauthenticated GET endpoints here if needed
 
 echo ""
 echo "--- API Gateway Checks Complete ---"
-echo "Note: For authenticated endpoints, manual testing with tools like Postman or custom scripts with auth tokens is required."
-echo "Ensure the APIs are running and accessible at the specified URLs." 

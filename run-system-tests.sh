@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Master script to run all Dentanoid system tests
+# Main script to run all Dentanoid system tests
 # This script assumes it's being run from the 'Architecture' directory.
 
 SYSTEM_TESTS_DIR="./system-tests"
