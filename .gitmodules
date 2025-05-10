@@ -1,0 +1,30 @@
+[submodule "Appointment-Service-Go"]
+	path = Appointment-Service-Go
+	url = https://github.com/Dentanoid/Appointment-Service-Go.git
+[submodule "Dentist-Client"]
+	path = Dentist-Client
+	url = https://github.com/Dentanoid/Dentist-Client.git
+[submodule "Patient-Client"]
+	path = Patient-Client
+	url = https://github.com/Dentanoid/Patient-Client.git
+[submodule "Dentist-API"]
+	path = Dentist-API
+	url = https://github.com/Dentanoid/Dentist-API.git
+[submodule "Patient-API"]
+	path = Patient-API
+	url = https://github.com/Dentanoid/Patient-API.git
+[submodule "User-Service"]
+	path = User-Service
+	url = https://github.com/Dentanoid/User-Service.git
+[submodule "Monitoring-Service"]
+	path = Monitoring-Service
+	url = https://github.com/Dentanoid/Monitoring-Service.git
+[submodule "Notification-Service"]
+	path = Notification-Service
+	url = https://github.com/Dentanoid/Notification-Service.git
+[submodule "Clinic-Service"]
+	path = Clinic-Service
+	url = https://github.com/Dentanoid/Clinic-Service.git
+[submodule "Scaled-Deployment"]
+	path = Scaled-Deployment
+	url = https://github.com/Dentanoid/Scaled-Deployment.git
